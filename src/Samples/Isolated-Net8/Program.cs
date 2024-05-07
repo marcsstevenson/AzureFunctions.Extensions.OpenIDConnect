@@ -4,7 +4,7 @@ using AzureFunctions.Extensions.OpenIDConnect.Configuration;
 using AzureFunctions.Extensions.OpenIDConnect.Isolated.Configuration;
 using Microsoft.Extensions.Hosting;
 
-namespace Isolated_Net6;
+namespace Isolated_Net8;
 
 static class Program
 {

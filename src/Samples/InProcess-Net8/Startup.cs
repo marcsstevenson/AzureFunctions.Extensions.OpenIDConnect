@@ -1,11 +1,11 @@
 using System;
 using AzureFunctions.Extensions.OpenIDConnect.Configuration;
 using AzureFunctions.Extensions.OpenIDConnect.InProcess.Configuration;
-using InProcess_Net6;
+using InProcess_Net8;
 using Microsoft.Azure.Functions.Extensions.DependencyInjection;
 
 [assembly: FunctionsStartup(typeof(Startup))]
-namespace InProcess_Net6;
+namespace InProcess_Net8;
 
 public class Startup : FunctionsStartup
 {

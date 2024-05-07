@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "InProcess_Net6": {
+    "InProcess_Net8": {
       "commandName": "Project",
       "commandLineArgs": "--port 7135",
       "launchBrowser": false

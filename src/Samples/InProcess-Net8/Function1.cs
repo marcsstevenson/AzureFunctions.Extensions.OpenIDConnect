@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 
-namespace InProcess_Net6
+namespace InProcess_Net8
 {
     [Authorize]
     public static class Function1

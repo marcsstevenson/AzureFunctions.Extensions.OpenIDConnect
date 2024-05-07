@@ -43,7 +43,7 @@
 	</Target>
 	<ItemGroup>
 		<PackageReference Include="Microsoft.Azure.WebJobs.Extensions.Http" Version="3.2.0" />
-		<PackageReference Include="Microsoft.IdentityModel.Protocols.OpenIdConnect" Version="6.23.1" />
+		<PackageReference Include="Microsoft.IdentityModel.Protocols.OpenIdConnect" Version="7.5.1" />
 	</ItemGroup>
 	<ItemGroup>
 		<None Update="icon.png">

@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "Isolated_Net6": {
+    "Isolated_Net8": {
       "commandName": "Project",
       "commandLineArgs": "--port 7027",
       "launchBrowser": false

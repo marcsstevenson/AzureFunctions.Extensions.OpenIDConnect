@@ -4,7 +4,7 @@ using Microsoft.Azure.Functions.Worker;
 using Microsoft.Azure.Functions.Worker.Http;
 using Microsoft.Extensions.Logging;
 
-namespace Isolated_Net6
+namespace Isolated_Net8
 {
     [Authorize]
     public class Function1
